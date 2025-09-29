@@ -8,13 +8,6 @@ Outside of work, I love making games! You will find several of my game repo's he
 - Building **mobile apps with React Native**  
 - Porting **Fruit Stand Fortune** to the **Apple App Store**  
 
-## 🔧 Technologies & Tools
-
-- **Frontend:** React, Next.js, TypeScript, Storybook, TailwindCSS, Material UI  
-- **Backend:** Node.js, Scala, C#, AWS, SQL, GraphQL  
-- **Testing:** Jest, Playwright, Vitest, Mocha  
-- **Game Dev:** Godot, Pico-8
-
 ---
 
 ![about_gif](https://github.com/user-attachments/assets/f1a3dacc-0e13-41e8-b96d-79a50b53e20c)
