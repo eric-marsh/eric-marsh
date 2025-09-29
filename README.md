@@ -1,4 +1,4 @@
-## Howdy! I'm Eric! Welcome to my github profile! 👋
+## Hey! I'm Eric! Welcome to my github profile! 👋
 
 I'm a **Fullstack Software Engineer** with 6+ years of experience. I specialize in **React, TypeScript and Next.js**. I am particularly passionate about user experience! As an internet user my whole life, I know a good website from a bad website. That's why I always strive to make accessible, user friendly applications that people will actually want to use. 
 
