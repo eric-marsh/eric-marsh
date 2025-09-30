@@ -7,6 +7,3 @@ Outside of work, I love making games! You will find several of my game repo's he
 ## 🌱 What I’m currently working on
 - Building **mobile apps with React Native**  
 - Porting **Fruit Stand Fortune** to the **Apple App Store**  
-
----
-
